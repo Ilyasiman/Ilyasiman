@@ -14,9 +14,10 @@ I specialize in translating complex business needs into clear requirements and h
 - Business Process Improvement
 - User Acceptance Testing (UAT)
 - Enterprise ERP Systems
+- Configuration Management and Change Control
 
 ## Tools & Technologies
-Jira | Confluence | SharePoint | Oracle EBS | CGI Momentum | Visio | SQL Server | Dimensions RM
+Jira | Confluence | SharePoint | Oracle EBS | CGI Momentum | Visio | SQL Server | Dimensions RM | Dimensions CM
 
 ## Certifications
 - Certified ScrumMaster (CSM)
